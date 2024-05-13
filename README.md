@@ -22,21 +22,23 @@ A collection of go through blogs/articles/repos during the prepration of gsoc.
 
 ## Repos
 
-- [Official google's gsocguides repo](https://github.com/google/gsocguides) - 93 star and 35 fork.
+- [Official google's gsocguides repo](https://github.com/google/gsocguides) - 399 star and 154 fork.
 
-- [Archive of GSoC proposals](https://github.com/saketkc/fos-proposals) - 170 star and 69 fork.
+- [Latest GSoC Proposal](https://github.com/imohitpatel/Latest-GSoc-Proposal) 
+- 
+- [Archive of GSoC proposals](https://github.com/saketkc/fos-proposals) - 468 star and 170 fork.
 
-- [GSoC 2017 Accepted-Proposals](https://github.com/saurabhshri/GSoC-2017-Accepted-Proposals)  -54 star and 22 fork.
+- [GSoC 2017 Accepted-Proposals](https://github.com/saurabhshri/GSoC-2017-Accepted-Proposals)  - 99 star and 29 fork.
 
-- [Google Summer of Code: Ideas, Links, Proposals](https://github.com/sdslabs/gsoc) - 17 star and 5 fork.
+- [Google Summer of Code: Ideas, Links, Proposals](https://github.com/sdslabs/gsoc) - 31 star and 5 fork.
 
-- [Google Summer of Code Frequently Asked Questions](https://github.com/OrkoHunter/gsoc-FAQs) -63 star and 10 fork.
+- [Google Summer of Code Frequently Asked Questions](https://github.com/OrkoHunter/gsoc-FAQs) - 111 star and 15 fork.
 
-- [NumFOCUS Google Summer of Code Materials](https://github.com/numfocus/gsoc) - 150 star and 156 fork.
+- [NumFOCUS Google Summer of Code Materials](https://github.com/numfocus/gsoc) - 466 star and 295 fork.
 
-- [Scrape GSoC organisations using a single script](https://github.com/rohithasrk/GSoC-Organisation-Scraper) - 66 star and 26 fork.
+- [Scrape GSoC organisations using a single script](https://github.com/rohithasrk/GSoC-Organisation-Scraper) - 125 star and 63 fork.
 
-- [GSoC proposal for selected SMVDU students year wise](https://github.com/CodeClubSMVDU/gsoc-proposals) - 5 star and 3 fork.
+- [GSoC proposal for selected SMVDU students year wise](https://github.com/CodeClubSMVDU/gsoc-proposals) - 49 star and 20 fork.
 
 # Contributing
 
